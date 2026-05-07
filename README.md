@@ -55,10 +55,10 @@ The main objective of this project is to transform raw Uber ride data into meani
 ## 📸 Dashboard Preview
 
 ### Home Page
-![Home Page](home.png)
+![Home Page](HomePage.png)
 
 ### Overview Dashboard
-![Overview Dashboard](overview.png)
+![Overview Dashboard](Overview.png)
 
 ## 📌 GitHub Tags
 `PowerBI` `Dashboard` `DataAnalytics` `BusinessIntelligence` `UberDashboard` `DAX`
