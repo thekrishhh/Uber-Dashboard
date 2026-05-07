@@ -5,8 +5,6 @@
 ## 📌 Project Overview
 This project is an interactive **Uber Analytics Dashboard** built using **Power BI**. The dashboard helps analyze ride bookings, revenue trends, vehicle performance, customer behavior, and trip insights using interactive visualizations.
 
-
-
 ## 📊 Features
 - Revenue Analysis
 - Booking Status Tracking
@@ -17,8 +15,6 @@ This project is an interactive **Uber Analytics Dashboard** built using **Power 
 - Quarterly & Monthly Trends
 - Interactive Filters and Navigation
 
-
-
 ## 🛠️ Tools & Technologies Used
 - Power BI
 - DAX
@@ -26,16 +22,12 @@ This project is an interactive **Uber Analytics Dashboard** built using **Power 
 - Data Visualization
 - Excel / CSV Dataset
 
-
-
 ## 📈 Key Insights
 - 93K+ Completed Bookings
 - 52M Revenue Generated
 - 57K Lost Bookings
 - 2.51M Total Distance Covered
 - 24.64 Average Ride Distance
-
-
 
 ## 📂 Dashboard Pages
 
@@ -51,12 +43,8 @@ This project is an interactive **Uber Analytics Dashboard** built using **Power 
 - Booking Trends
 - Ratings & Ride Statistics
 
-
-
 ## 🎯 Project Objective
 The main objective of this project is to transform raw Uber ride data into meaningful business insights through interactive dashboards and visual analytics.
-
-
 
 ## 🧠 Skills Demonstrated
 - Data Cleaning
@@ -66,8 +54,6 @@ The main objective of this project is to transform raw Uber ride data into meani
 - DAX Calculations
 - Interactive Reporting
 
-
-
 ## 📸 Dashboard Preview
 
 ### Home Page
@@ -76,19 +62,5 @@ The main objective of this project is to transform raw Uber ride data into meani
 ### Overview Dashboard
 ![Overview Dashboard](overview.png)
 
-
-
-## 🚀 How to Use
-1. Download the `.pbix` file
-2. Open it using Power BI Desktop
-3. Explore the dashboard visuals and filters
-
-
-
 ## 📌 GitHub Tags
 `PowerBI` `Dashboard` `DataAnalytics` `BusinessIntelligence` `UberDashboard` `DAX`
-
-
-
-## ⭐ Support
-If you liked this project, give it a star ⭐ on GitHub.
