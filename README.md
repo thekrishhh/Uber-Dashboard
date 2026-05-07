@@ -1,8 +1,6 @@
 # Uber Dashboard
 
 ## 🛺 Interactive Uber Dashboard | Power BI
-
-## 📌 Project Overview
 This project is an interactive **Uber Analytics Dashboard** built using **Power BI**. The dashboard helps analyze ride bookings, revenue trends, vehicle performance, customer behavior, and trip insights using interactive visualizations.
 
 ## 📊 Features
